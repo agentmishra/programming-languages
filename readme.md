@@ -88,6 +88,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Python](https://github.com/python/cpython) - Interpreted high-level language for general-purpose programming.
 - [Swift](https://github.com/apple/swift) - General-purpose, multi-paradigm, compiled programming language.
 - [TypeScript](https://github.com/Microsoft/TypeScript) - Strict syntactical superset of JavaScript that adds optional static typing to the language.
+- [Racket](https://github.com/racket/racket)  General-purpose, compiled, and modern programming language.
 - [Ring](https://github.com/ring-lang/ring) - Innovative and practical general-purpose multi-paradigm language.
 
 ## Funny
